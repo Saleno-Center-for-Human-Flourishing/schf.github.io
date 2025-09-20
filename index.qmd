@@ -6,10 +6,10 @@ page-layout: full
 <div class="gradient-text">
 
 <div class="welcome-headline">
-Philosophy Through Video Games<br>
+The Experience Machine<br>
 </div>
 <div class="welcome-subheadline">
-At the Saleno Center for Human Flourishing
+Modeliing Philosophical Dilemmas in Virtual Environments
 </div>
 </div>
 
