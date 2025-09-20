@@ -1,0 +1,135 @@
+---
+title: "Where might one find meaning and purpose in a new game?"
+date: '2024-10-01'
+---
+
+You are going to start playing a new game. On the one hand, you begin to feel excitement, but you also feel some nervousness. You've purchased a set of game packages. These include five Auroras, and Five Mustangs Alpha Starter Packages. This is because you do not want to begin alone.
+
+Your friend has told you to use code STAR-BVYF-6QBJ to receive 5,000 UEC (United Earth Credits/ in game currency, and you have installed the software in the Esports Club Game lab in the BSC Lower Level.
+
+What do you expect your take away to be? Are they learning outcomes like the following?
+
+1. Achieve a basic understanding of some of the ethical dimensions of meaning and purpose that are foundational to the philosophical tradition as it relates to ethical questions, including Aristotle’s Nicomachean Ethics, Aquinas’ Teleological Theories
+2. Be able to think independently and creatively about some of the perennial questions of the human condition, including simulating how to live well.
+3. Be able to develop and evaluate clear and precise arguments (either in speech or in writing) for your own philosophical positions, once again using examples.
+4. Be able to develop and evaluate clear and precise arguments (either in speech or in writing) for the philosophical positions of others, in examples.
+5. Achieve a greater awareness of the nature and importance of moral virtues, intellectual virtues, and the complexities of ethical issues, as represented in game theory.
+
+Perhaps not initially. What if I told you however, that the above are possible outcomes? Even more, what if I were to tell you that possibility and necessity were fun to think about in the context of the game packages you just purchased?
+
+## ITC Certifications
+
+### Orientation
+
+*Welcome to ITC! You've joined an amazing family. We're glad you're here! o7* However, it is not likely that you have joined ITC. But that is okay, let's for the sake of argument you did join ITC. Then the following would be true.
+
+As a member in ITC, you are a civilian making your own space bucks, and a volunteer on-call Marine defending your corpmates on a moment's notice. You keep two rapid response heavy Marine kits and your corp fighter with you at all times. Together we prosper, together we stand. Welcome to ITC!
+
+**__Corp HQ in Alpha 4.1+:__**  `Pyro Gateway Station (PGS), Stanton.`  (Area 18 is the closest recommended home planet). Store your marine kits and fighter here by default. Store also any military assets here too, since this is where we rally.
+
+**All recruits in ITC in Star Citizen must do the following:**__
+
+1. Watch our orientation vid [here](https://youtu.be/T121Ictm_8o). Practice navigating Discord using **Alt+Left Arrow** or **Alt+Right Arrow** to go backwards and forwards in Discord.
+2. Click https://discord.com/channels/603374185095364609/1343338188105715803.
+3. Head to <a thread in the Discord channel> and scroll up to select pingable roles for your **timezone**, **industry**, *and* **military** role (at least 1 of each).
+4. Scroll up to the top of the [ITC Handbook of Fun](https://discord.com/channels/603374185095364609/1129526202936348763) to learn how we Get Rich, and Blast Pirates together, and view our ping etiquette.
+5. Purchase and store two [Heavy Uniforms](https://discord.com/channels/603374185095364609/1269121707218571427/1269121707218571427) at **Corp HQ** listed above in time for the [Weekly Corp Raid](https://discord.com/channels/603374185095364609/1129668080679792640) or any scheduled event, and set your spawn there.
+6. Deliver and Pre-Claim all military assets at **Corp HQ** so they are ready for action for Discord Events, <#1301016677122707519> ops, and [SOSes](https://discord.com/channels/603374185095364609/875590777751875634).
+7. Complete your <#1115404601018023956> towards <#1268327746707263659>, then acquire your current corp fighter, the <#1320122720712790187> to earn <#1268332209476075570>.
+8. Hop in voice coms and <#610540248979734549>  to introduce yourself! Feel free to join any op casual or not!  New to Star Citizen? Check out [this video](https://www.youtube.com/watch?v=zADT952lFqg&list=PLvw-s-U1ebL7Qq36Y3nYnG-EMtv6mkuCs&index=1).
+
+### Marine Private
+
+Create and maintain a post in training-board to track your progress for all certs going forward.
+
+Title: Marine Private: YourName - Looking for Review
+
+Tags: Training and Marine
+
+Look at: Navy Fleet Admiral: inigma_X -… for an example career thread. Check this board daily
+
+Finish all steps in orientation first, then understand the following:
+
+* In ITC, all members are self-sufficient civilian industrialists and all volunteer as on-call Marines defending our interests. We serve ITC and its merchant fleet known as the ITC Navy (ITCN). You may join any op at any time, regardless of cert.
+* You are responsible for making your own space bucks. You must select at least one of the industrial roles to receive pings for when group money making ops are happening.
+* You are responsible for defending your corp mates. You must select at least one of the military roles to get pings for assisting your corp mates in trouble.
+* All squadrons and companies are not rostered groups. They are merely pings. Simply join a pingable group role to join. Opt out of roles at anytime.
+* Read Lore
+Welcome to the most glorious adventure in Star Citizen.
+
+Configure your Game Options and Bookmarks as Desired.
+
+* Check out unknown to see if there is anything there you can use in your Game setup.
+* Bookmark: https://finder.cstone.space/ to find anything in Star Citizen
+* Bookmark: https://www.youtube.com/@weareitc (DM the CEO if interested in being a content contributor!)
+These are all optional, but very useful.
+
+Setup Discord, Teamspeak, and CitizenCommander.
+
+* Setup Discord push to talk:unknown - we use Discord for all voice coms.
+* Add a Discord voice channel and rename it - see voice-readme Join our TeamSpeak server - see voice-readme we use Teamspeak for channel owners to communicate to other channel owners.
+* Read: unknown and practice moving your card around to different roles in Operations Dashboard, and updating your ship and thumb status. Then remove your card from the Operations Dashboard. We use these tools for organizing ourselves during operations and events.
+
+Go on a First Person Shooter (FPS) Mission Objective/Event with at least 1 other ITC Marine.
+
+* Read and practice Marine Combat Communication Tips.
+* Hop in a voice channel now and ask for a first person shooter (FPS) mate, or use your training-board thread to ping @ Marine Sergeant to arrange an FPS mission together, or you can wait for any marine-related scheduled event such as the Weekly Corp Raid. For sure ping in your career thread who you went with or who can vouch for you having done this.
+Welcome to the ITC Marine Corps!
+
+Award yourself the Marine Private certification.
+
+* Ping the persons name in your training-board who helped you practice the above, or who reviewed the above requirements with you.
+* Go to training to award yourself the Marine Private cert by clicking on its related emoji in that channel.
+
+Congratulations Private! :marineprivate:
+
+* You may continue on to Marine Corporal by clicking the link below!
+* Go to Marine Corporal
+* Go back to training
+
+### Marine Corporal
+
+:marinecorporal: Marine Corporal
+
+Mastery of Required Equipment Acquisition, Driving, Flying, and Evasion (5 Requirements)
+
+Rename your post in training-board to track your progress.
+
+* Title: Marine Corporal: YourName - Looking for Review
+* Tags: Training and Marine
+
+Check this board daily when you play with us so you can help others too!
+
+Acquire your Marine fighter and rapid response equipment and maintain it ready at HQ at all times.
+
+* Purchase and maintain 2 Heavy Marine Kits from Area18, which must be maintained at HQ at all times: unknown
+* Acquire a unknown - your personal Marine drop vehicle.
+* Acquire a corp doctrine Gladius - your light fighter.
+You may request a loan or grant in corp-bank to purchase any of the above. See pin in that channel.
+
+Know How to Fly and Drive.
+
+* Watch: Basics New Pilots should know (Master Modes Dogfight breakdown): https://youtu.be/FfS0VRkxI24?si=Gha-qF5yyiPdHIii
+* Watch: Understanding Star Citizen's New Advanced HUD: https://www.youtube.com/watch?v=mQ30DWXHYCY
+* Watch and Practice driving your Mule: How to Spawn and Drive Ground Vehicles: guides ITC Marines - Reference
+
+Start Delta Squadron Training Ground School.
+
+* Watch and complete all content in Delta Squadron Training Ground School Module 1: Basics (all sections).
+* Practice corkscrew maneuvers evading a hostile missile (you can tresspass at Security Post Kareah for this), and corkscrew approaching a hostile target.
+* Practice extension maneuvers evading a non-stationary hostile of your choice.
+* Practice at least 3 items of your choice in: Delta Squadron Flight School
+* Track your DST progress in your training-board post.
+ ITC Marines love their Uniform, Drop Vehicle, and their Fighter. They take good care of them. Like their rifle. They never start a new patch without them.
+
+Award yourself the Marine Corporal certification.
+
+* Ping the persons name in your training-board who helped you practice the above, or who reviewed the above requirements with you.
+* Go to training to award yourself the Marine Corporal cert by clicking on its related emoji.
+
+Congratulations Corporal! :marinecorporal:
+You may continue on to Marine Sergeant by clicking the link below!
+
+## Simulating the Good Life
+
+Most important among the underlying comments of Platonic and Aristotelian views of rational self-sufficiency, is the view that art uniquely enables reflection on what amounts to a beautiful human life. Taking the concept of art and interpreting it broadly, MMOs fit this category. The difference here is that we intend to use MMOs as art in the pursuit of being able to reflect on a beautiful life. Consider the game One Hour One Life by Jason Rohrer. One Hour is a multiplayer survival game whose players must depend on other players in their early years. A player begins as a helpless baby and their continued play depends on the kindness of other players. However, the more individuals in a given community who can work well together, the better that community fairs in the long run. So the sacrifice that community members make in the early years of a member's life, become an investment in the long run.

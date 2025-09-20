@@ -1,0 +1,60 @@
+---
+title: &TITLE Josh Rust
+last: Rust
+first: Josh
+people_group: "pi"
+email: "masiello@uw.edu"
+education:
+  - Ph.D. Philosophy | University of California at Riverside | 2005 <br> MS.c Philosophy of Social Science | London School of Economics | 2006 <br> M.A. Philosophy | University of California at Riverside | 2000 <br> B.A. Philosophy | University of California at Berkeley | 1997
+subtitle: "Professor of Chemistry <br> Adjunct Professor of Materials Science and Engineering <br> Adjunct Professor of Applied Mathematics"
+description: ""
+project: "dmref"
+affiliation: Stetson University
+image: avatar.jpg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs
+  contents:
+    - "../../../publications/**/*.qmd"
+    - "!../../../publications/_template/"
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    author: *TITLE
+  fields: [publication, title, categories, image, date, author]
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image: avatar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:masiello@uw.edu
+    - text: Google Scholar
+      icon: mortarboard
+      href: https://scholar.google.com/citations?hl=en&user=mgP_xO8AAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/MasielloGroup
+---
+
+<hr>
+
+
+:::{#about}
+
+David J. Masiello is a professor of Chemistry, adjunct professor of Applied Mathematics, and adjunct professor of Materials Science and Engineering at the University of Washington.
+
+## Education
+{{< meta education >}}
+
+<br>
+
+:::
+## Group Publications
+
+:::{#pubs}
+:::

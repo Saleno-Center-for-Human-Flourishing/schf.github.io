@@ -1,0 +1,15 @@
+---
+title: "Valence in Video Games"
+date: 2022-05-01
+author: ["Montaque Reynolds", "Joe Guy", "Jim Bartholomew"]
+publication: "Psychological Science, **7**, _1798-1807_ (2026)."
+categories: ["metaphysics"]
+url_source: https://doi.org/10.1021/acsanm.1c03171
+url_preprint:
+journ: "Psychological Science"
+issue: 7
+page: 1798-1807
+year: 2026
+image: featured.png
+pub_number: 95
+---
