@@ -21,7 +21,15 @@ Modeliing Philosophical Dilemmas in Virtual Environments
 ::: grid
 ::: {.g-col-8 .g-col-lg-6 .welcome-text .sand-background style="padding: 5px;"}
 
-When combined with carefully selected reading materials, role-playing in virtual video-game environments can double as executable thought experiments. We use video games to model philosophical, ethical, and moral dilemmas. Participation in this group will satisfy the credit requirements for PHIL 321. Phil 321 is an Immersive Experience credit course. Students who particpate in Phil 321 activities will earn 0.5 Units. This course offers students the opportunity to engage in immersive, philosophically relevant experiences outside the traditional classroom setting. Through approved activities such as philosophy reading groups, Ethics Bowl participation, or research apprenticeships, students will apply philosophical concepts in practical contexts, deepening their understanding and engagement with the discipline.
+Imagine that you are playing a vast multiplayer conflict driven game with thousands upon thousands of players. Let's also imagine that you have thousands of hours in this game. The stakes are high, you have earned items in this game that costs you your time and effort. Therefore there are only a certain number of players in this game that you trust.
+
+Let's imagine that you meet someone outside the game. This person befriends you. Your relationship with this person deepens and over time, they begin to learn more things about you, including secrets in the game that you would not share with anyone outside "the circle of trust" that you built in the game. These include "safe words" for instance, that let players in your circle of trust know who belongs in that circle.
+
+It turns out as you can probably guess, that your friend outside the game, is actually a player inside the game and they befriended you all for the purposes of gaining the information they did, in order to use it against you.
+
+Did they cheat? 
+
+Participation in this group will satisfy the credit requirements for PHIL 321. Phil 321 is an Immersive Experience credit course. Students who participate in Phil 321 activities will earn 0.5 Units. Through approved activities such as philosophy reading groups, Ethics Bowl participation, or research apprenticeships, students will apply philosophical concepts in practical contexts, deepening their understanding and engagement with the discipline.
 Majors and Minors only.
 
 :::
