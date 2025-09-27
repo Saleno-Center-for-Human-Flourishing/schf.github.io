@@ -9,7 +9,7 @@ page-layout: full
 The Experience Machine<br>
 </div>
 <div class="welcome-subheadline">
-Modeliing Philosophical Dilemmas in Virtual Environments
+Philosophical Gaming and Fiction
 </div>
 </div>
 
@@ -19,23 +19,22 @@ Modeliing Philosophical Dilemmas in Virtual Environments
 
 
 ::: grid
-::: {.g-col-8 .g-col-lg-6 .welcome-text .sand-background style="padding: 5px;"}
+::: {.g-col-20 .g-col-lg-6 .welcome-text .sand-background style="padding: 5px;"}
 
-Imagine that you are playing a vast multiplayer conflict driven game with thousands upon thousands of players. Let's also imagine that you have thousands of hours in this game. The stakes are high, you have earned items in this game that costs you your time and effort. Therefore there are only a certain number of players in this game that you trust.
+The Philosophy Game Club at Stetson University invites Philosophy majors, minors, and the interested to join our weekly gatherings to discuss and play multiplayer video games like Star Citizen, Roblox, or others with robust communities that allow collaborative objectives.
 
-Let's imagine that you meet someone outside the game. This person befriends you. Your relationship with this person deepens and over time, they begin to learn more things about you, including secrets in the game that you would not share with anyone outside "the circle of trust" that you built in the game. These include "safe words" for instance, that let players in your circle of trust know who belongs in that circle.
+We’re exploring ethical and other philosophical questions in gaming, such as whether a player who befriends another outside a game to gain secret in-game information, is cheating. Join us in person or virtually to discuss future meeting plans and suggest games like Minecraft or Eve Online.
 
-It turns out as you can probably guess, that your friend outside the game, is actually a player inside the game and they befriended you all for the purposes of gaining the information they did, in order to use it against you.
+* Contact: Dr. Montaque Reynolds (mreynolds1@stetson.edu)
+* When: Fridays at 2:30 PM
+* Where: Elizabeth Hall, Room 104 (Philosophy Department)
 
-Did they cheat? 
+::: grid
+::: {.g-col-8 .g-col-lg-6 .welcome-image}
 
-Participation in this group will satisfy the credit requirements for PHIL 321. Phil 321 is an Immersive Experience credit course. Students who participate in Phil 321 activities will earn 0.5 Units. Through approved activities such as philosophy reading groups, Ethics Bowl participation, or research apprenticeships, students will apply philosophical concepts in practical contexts, deepening their understanding and engagement with the discipline.
-Majors and Minors only.
 
 :::
-
 :::
-
 
 
 :::
